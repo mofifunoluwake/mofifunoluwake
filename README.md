@@ -21,4 +21,4 @@ I am transitioning from frontend development to the world of data. I specialize 
 * **Customer Demographics Project:** Correcting data quality issues (ETL) and building Star Schema models in Power BI.
 
 ### 📫 Connect with me
-* [LinkedIn](www.linkedin.com/in/mofifunoluwake)
+* [LinkedIn](https://www.linkedin.com/in/mofifunoluwake)
