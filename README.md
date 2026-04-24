@@ -12,28 +12,9 @@ Current Software Engineering Intern at **Qoray Mobility and Energies**.
 | :--- | :--- |
 | **Backend & Infrastructure** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) | ![REST APIs]
 | **Data Engineering** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-0078D4?logo=microsoft&logoColor=white) |
-| **Development Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
+| **Development Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://camo.githubusercontent.com/ce21d1c1cdc7132a50bfea64d6772b158f8b4303117e69f636792edaba9c6164/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
 
 ---
-
-### 🛠️ Technical Stack
-
-**Backend**
-- Node.js
-- Express
-- REST APIs
-- SQL / SQLite
-
-**Infrastructure**
-- AWS (Cloud Infrastructure)
-- Git / GitHub
-- Postman
-
-**Data & Analytics**
-- Python
-- Microsoft Fabric
-- Power BI
-
 ### 📈 Certifications & Growth
 
 - 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
@@ -46,11 +27,7 @@ Current Software Engineering Intern at **Qoray Mobility and Energies**.
 
 #### [Electro-Flow](https://github.com/mofifunoluwake/electro-flow)
 An end-to-end EV telemetry pipeline.
-- **Tech:** Python, SQL, Star Schema logic.
-- **Impact:** Implemented anomaly detection for battery health monitoring and optimised data persistence.
-
-
-
 
 ### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/mofifunoluwake) | [GitHub](https://github.com/mofifunoluwake)
+[LinkedIn](https://linkedin.com/in/mofifunoluwake) | [GitHub](https://github.com/mofifunoluwake) | [Gmail](mofifunoluwake@gmail.com) 
+
