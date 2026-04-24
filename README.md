@@ -27,4 +27,4 @@ first commercial EV charging network.
 
 ### 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://linkedin.com/in/mofifunoluwake) • [GitHub](https://github.com/mofifunoluwake)
