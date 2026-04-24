@@ -1,24 +1,30 @@
+Hi there, I'm Mofifunoluwake! 👋
 
-### Hi there, I'm Mofifunoluwake! 👋
-#### 📊 Data Analyst & Aspiring Data Engineer
+### Backend & Data Engineer in Training
 
-I am transitioning from frontend development to the world of data. I specialize in transforming raw datasets into actionable insights using **Power BI** and **SQL**. I am currently preparing for the **Microsoft PL-300** certification.
+Building APIs and data pipelines for Africa's clean energy future. 
+Currently an SWE intern at **Qoray Mobility and Energies** — Nigeria's 
+first commercial EV charging network.
 
 ---
 
 ### 🛠️ Technical Stack
+
 | Category | Tools |
-| :--- | :--- |
-| **Data Viz** | Power BI (DAX, Power Query) |
-| **Database** | SQL Server, PostgreSQL |
-| **Languages** | Python (Pandas), SQL |
-| **Engineering** | Data Cleaning, ETL Pipelines |
+|----------|-------|
+| **Backend** | Node.js, Express, REST APIs |
+| **Data** | Python (Pandas, NumPy), PostgreSQL, SQLite, Microsoft Fabric |
+| **Tools** | Git, VS Code, Power BI, Postman |
+| **Certifications** | Microsoft Fabric Analytics Engineer (DP-600) |
 
 ---
 
-### 🔭 What I'm Working On
-* **PL-300 Certification:** Studying Data Modeling and Advanced DAX.
-* **Customer Demographics Project:** Correcting data quality issues (ETL) and building Star Schema models in Power BI.
+### 📌 Featured Projects
 
-### 📫 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/mofifunoluwake)
+- **Electro-Flow** — End-to-end EV telemetry pipeline with anomaly detection
+
+---
+
+### 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
