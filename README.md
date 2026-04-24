@@ -1,30 +1,56 @@
-Hi there, I'm Mofifunoluwake! 👋
+# Hi there, I'm Mofifunoluwake! 👋
 
-### Backend & Data Engineer in Training
+### Backend & Data Engineer ⚡️
+**Building APIs and data infrastructure for Africa's clean energy future.**
+Current Software Engineering Intern at **Qoray Mobility and Energies**.
 
-Building APIs and data pipelines for Africa's clean energy future. 
-Currently an SWE intern at **Qoray Mobility and Energies** — Nigeria's 
-first commercial EV charging network.
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Tools |
+| :--- | :--- |
+| **Backend & Infrastructure** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) | ![REST APIs]
+| **Data Engineering** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-0078D4?logo=microsoft&logoColor=white) |
+| **Development Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
 
 ---
 
 ### 🛠️ Technical Stack
 
-| Category | Tools |
-|----------|-------|
-| **Backend** | Node.js, Express, REST APIs |
-| **Data** | Python (Pandas, NumPy), PostgreSQL, SQLite, Microsoft Fabric |
-| **Tools** | Git, VS Code, Power BI, Postman |
-| **Certifications** | Microsoft Fabric Analytics Engineer (DP-600) |
+**Backend**
+- Node.js
+- Express
+- REST APIs
+- SQL / SQLite
+
+**Infrastructure**
+- AWS (Cloud Infrastructure)
+- Git / GitHub
+- Postman
+
+**Data & Analytics**
+- Python
+- Microsoft Fabric
+- Power BI
+
+### 📈 Certifications & Growth
+
+- 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
+- ⏳ **PL-300: Microsoft Power BI Data Analyst**
+- ☁️ **AWS Cloud Accelerator**
 
 ---
 
 ### 📌 Featured Projects
 
-- **Electro-Flow** — End-to-end EV telemetry pipeline with anomaly detection
+#### [Electro-Flow](https://github.com/mofifunoluwake/electro-flow)
+An end-to-end EV telemetry pipeline.
+- **Tech:** Python, SQL, Star Schema logic.
+- **Impact:** Implemented anomaly detection for battery health monitoring and optimised data persistence.
 
----
 
-### 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/mofifunoluwake) • [GitHub](https://github.com/mofifunoluwake)
+
+### 📫 Connect with me
+[LinkedIn](https://linkedin.com/in/mofifunoluwake) | [GitHub](https://github.com/mofifunoluwake)
