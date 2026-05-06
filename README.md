@@ -1,7 +1,6 @@
 # Hi there, I'm Mofifunoluwake! 👋
 
-### Backend & Data Engineer ⚡️
-**Building APIs and data infrastructure for Africa's clean energy future.**
+### Data Engineer ⚡️
 Current Software Engineering Intern at **Qoray Mobility and Energies**.
 
 ---
@@ -19,15 +18,8 @@ Current Software Engineering Intern at **Qoray Mobility and Energies**.
 
 - 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 - ⏳ **PL-300: Microsoft Power BI Data Analyst**
-- ☁️ **AWS Cloud Accelerator**
 
 ---
-
-### 📌 Featured Projects
-
-#### [Electro-Flow](https://github.com/mofifunoluwake/electro-flow)
-An end-to-end EV telemetry pipeline.
-
 ### 📫 Connect with me
 [LinkedIn](https://linkedin.com/in/mofifunoluwake) | [GitHub](https://github.com/mofifunoluwake) | [Gmail](mofifunoluwake@gmail.com) 
 
